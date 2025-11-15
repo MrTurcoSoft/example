@@ -1,5 +1,4 @@
-{
-{ "cty_code": "004", "cty_en": "Afghanistan" },
+  { "cty_code": "004", "cty_en": "Afghanistan" },
   { "cty_code": "008", "cty_en": "Albania" },
   { "cty_code": "012", "cty_en": "Algeria" },
   { "cty_code": "016", "cty_en": "American Samoa" },
@@ -120,7 +119,7 @@
   { "cty_code": "438", "cty_en": "Liechtenstein" },
   { "cty_code": "440", "cty_en": "Lithuania" },
   { "cty_code": "442", "cty_en": "Luxembourg" },
-    { "cty_code": "446", "cty_en": "China, Macao SAR" },
+  { "cty_code": "446", "cty_en": "China, Macao SAR" },
   { "cty_code": "450", "cty_en": "Madagascar" },
   { "cty_code": "454", "cty_en": "Malawi" },
   { "cty_code": "458", "cty_en": "Malaysia" },
@@ -239,4 +238,4 @@
   { "cty_code": "882", "cty_en": "Samoa" },
   { "cty_code": "887", "cty_en": "Yemen" },
   { "cty_code": "894", "cty_en": "Zambia" }
-  }
+  
